@@ -16,8 +16,6 @@
 /* include the Paho Embedded C MQTT library header */
 #include "MQTTClient.h"
 
-/* include the JSMN JSON tokenizer */
-#include "jsmn.h"
 
 /************************************************************************
 ** Type Definitions
