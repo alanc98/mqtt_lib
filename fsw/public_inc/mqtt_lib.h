@@ -16,6 +16,8 @@
 /* include the Paho Embedded C MQTT library header */
 #include "MQTTClient.h"
 
+/* include the core JSON library from FreeRTOS */
+#include "core_json.h"
 
 /************************************************************************
 ** Type Definitions
